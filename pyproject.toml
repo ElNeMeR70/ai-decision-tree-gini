@@ -1,0 +1,4 @@
+[project]
+name = "ai-decision-tree-gini"
+version = "0.1.0"
+description = "Recursively partitions dataset evaluating Gini index $G = 1 - \sum p_i^2$ across continuous feature thresholds."
